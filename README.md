@@ -15,3 +15,5 @@ This repository contains the iPython Notebook of the implementation of Artificia
 ## Frameworks and Libraries Used: 
 - Model is developed on Keras Framework.
 - For Pre-processing and Post-processing of Musical data, IPython library is used.
+
+## Note : The Music Files that are synthesised by the network are also uploaded.
